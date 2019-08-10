@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Angular 2+",
+		"progress":75
+	},
+	{
+		"name": "ASP.NET MVC 5",
+		"progress":90
+	},
+	{
+		"name": "ASP.NET Web Forms",
+		"progress":75
+	},
+	{
+		"name": "HTML5",
+		"progress":80
+	},
+	{
+		"name": "CSS3",
+		"progress":80
+	},
+	{
+		"name": "JavaScript",
+		"progress":60
+	}
+]

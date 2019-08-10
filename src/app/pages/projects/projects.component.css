@@ -1,0 +1,13 @@
+.project-card {
+    width: 400px;
+  }
+  
+  .project-header-image {
+    background-image: url('../../../assets/images/github.png');
+    background-size: cover;
+  }
+
+  img {
+      height: 150px;
+      width: 200px;
+  }

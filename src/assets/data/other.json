@@ -1,0 +1,26 @@
+[
+	{
+		"name": "WixToolSet",
+		"progress":85
+	},
+	{
+		"name": "NuGET Packages",
+		"progress":90
+	},
+	{
+		"name": "Build Definitions .NET",
+		"progress":90
+	},
+	{
+		"name": "Octopus Deploy - Automatic deploy for .NET",
+		"progress":85
+	},
+	{
+		"name": "NLog",
+		"progress":90
+	},
+	{
+		"name": "QUARTZ - automatic job executor",
+		"progress":65
+	}
+]

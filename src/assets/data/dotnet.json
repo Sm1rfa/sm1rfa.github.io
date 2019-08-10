@@ -1,0 +1,42 @@
+[
+	{
+		"name": "C#",
+		"progress":85
+	},
+	{
+		"name": "Windows Communication Foundation",
+		"progress":90
+	},
+	{
+		"name": "Windows Presentation Foundation",
+		"progress":95
+	},
+	{
+		"name": "Windows Forms",
+		"progress":80
+	},
+	{
+		"name": "Windows Service",
+		"progress":80
+	},
+	{
+		"name": "Entity Framework",
+		"progress":90
+	},
+	{
+		"name": "ORM",
+		"progress":80
+	},
+	{
+		"name": "ADO.NET",
+		"progress":80
+	},
+	{
+		"name": "Unity Dependency Injection",
+		"progress":60
+	},
+	{
+		"name": "Visual Studio 2013/2015/2017",
+		"progress":80
+	}
+]

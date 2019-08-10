@@ -1,0 +1,14 @@
+[
+	{
+		"name": "Java SE/EE",
+		"progress":70
+	},
+	{
+		"name": "Hibernate",
+		"progress":50
+	},
+	{
+		"name": "Struts 2 Framework",
+		"progress":35
+	}
+]

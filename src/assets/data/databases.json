@@ -1,0 +1,14 @@
+[
+	{
+		"name": "MS SQL Server 2008/2012/2014/2016",
+		"progress":85
+	},
+	{
+		"name": "Oracle Database",
+		"progress":50
+	},
+	{
+		"name": "MySQL",
+		"progress":75
+	}
+]
