@@ -1,4 +1,4 @@
-# sbonchev.github.io
+# Stoyan Bonchev
 My personal CV
 
 ============
