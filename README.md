@@ -15,10 +15,10 @@ Career
 April 2018 - current
 :   **Software developer** - KMD A/S - [www.kmd.dk] - Ballerup, Copenhagen, Denmark
 
-* Currently working on a big and complex project for Danish Medicine Agency
+1. Currently working on a big and complex project for Danish Medicine Agency
    - Responsible for the .NET projects - development, build, deploy
    - Part of inner team with a Java project - Gradle, WebSphere, Java 
-* I was part of the team working on a project for Danish National Bank
+2. I was part of the team working on a project for Danish National Bank
    - The prime focus of my job is to develop and maintain the existing software in the .NET stack and Angular front-end
    - I am also assigned to DevOps role, where my job is to help with the Continuous Integration Build pipelines and deployments to certain environments
    - Part of my job was to develop two PowerShell scripts for automatic deploy of the whole project – one for the project on the running servers and another for localhost usage.
