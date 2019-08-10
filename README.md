@@ -13,7 +13,7 @@ Career
 ---------
 
 April 2018 - current
-:   **Software developer** - [KMD A/S](www.kmd.dk) - Ballerup, Copenhagen, Denmark
+:   **Software developer** - [KMD A/S](www.kmd.dk) - Ballerup, Denmark
 
 1. Currently working on a big and complex project for Danish Medicine Agency
    - Responsible for the .NET projects - development, build, deploy
@@ -26,7 +26,7 @@ April 2018 - current
 
 
 January 2015 - March 2018
-:   **Software developer** - [Santander Consumer Bank A/S](www.santanderconsumer.dk) - Hvidovre, Compenhagen, Denmark
+:   **Software developer** - [Santander Consumer Bank A/S](www.santanderconsumer.dk) - Hvidovre, Denmark
 
      - I was part of internal team of the company, which is responsible for building wide range of solutions with .NET Framework.
      - Development, maintenance and support of new and already existing systems.
@@ -47,31 +47,23 @@ June 2014 - September 2014
 Non-profit Experience
 ----------
 
-**Your Most Recent Work Experience:**
+March 2016 - January 2017
+:   **Microsoft Student Partner** - [KEA](www.kea.dk)/[Microsoft](https://msdn.microsoft.com/en-us/microsoftstudentpartners.aspx) - Copenhagen Denmark
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
-
-* First item
-
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
-
-**That Other Job You Had**
-
-Also with a short description.
+May 2015 - December 2015
+:   **Web Administrator** - [Danmark Internationale Kollegium](www.dkik.dk) - Albertslund, Denmark
+ 
 
 Technical Experience
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
-
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+    * .NET Framework - C#, .NET Core, REST APIs, WCF, WPF (MVVM), Windows Froms, MVC 5, ASP.NET Web Forms, PowerShell
+    * Java - Gradle, WebSphere
+    * MSSQL Server, MySQL
+    * Angular 2+
+    * PHP - Laravel
+    * Deep knowledge in UML
+    * SCRUM/Agile experience
 
 Open Source
 :   List open source contributions here, perhaps placing emphasis on
@@ -106,9 +98,10 @@ Extra Section, Call it Whatever You Want
 
 * Human Languages:
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+     * English - full working proficiency
+     * Russian - full working proficiency
+     * Danish - advanced working proficiency
+     * Bulgarian - native
 
 * Random tidbit
 
