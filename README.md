@@ -5,10 +5,9 @@ Personal CV
 
 Address | Information
 ------- | -----------
-Copenhagen          |stoyan.bonchev@yahoo.com
-Hvidovre 2650       |[LinkedIn](https://www.linkedin.com/in/sbonchev/)
-Denmark             |phone on email request
--------------------- ----------------------------
+Copenhagen |stoyan.bonchev@yahoo.com
+2650 |[LinkedIn](https://www.linkedin.com/in/sbonchev/)
+Denmark |phone on email request
 
 Career
 ---------
