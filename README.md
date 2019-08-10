@@ -13,7 +13,7 @@ Career
 ---------
 
 April 2018 - current
-:   **Software developer** - KMD A/S - www.kmd.dk - Ballerup, Copenhagen, Denmark
+:   **Software developer** - [KMD A/S](www.kmd.dk) - Ballerup, Copenhagen, Denmark
 
 1. Currently working on a big and complex project for Danish Medicine Agency
    - Responsible for the .NET projects - development, build, deploy
@@ -26,7 +26,7 @@ April 2018 - current
 
 
 January 2015 - March 2018
-:   **Software developer** - Santander Consumer Bank A/S - www.santanderconsumer.dk - Hvidovre, Compenhagen, Denmark
+:   **Software developer** - [Santander Consumer Bank A/S](www.santanderconsumer.dk) - Hvidovre, Compenhagen, Denmark
 
      - I was part of internal team of the company, which is responsible for building wide range of solutions with .NET Framework.
      - Development, maintenance and support of new and already existing systems.
@@ -44,7 +44,7 @@ June 2014 - September 2014
 
 
 
-Experience
+Non-profit Experience
 ----------
 
 **Your Most Recent Work Experience:**
