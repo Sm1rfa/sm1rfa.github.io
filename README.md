@@ -45,7 +45,7 @@ June 2014 - September 2014
 
 
 Non-profit Experience
-----------
+---------------------
 
 March 2016 - January 2017
 :   **Microsoft Student Partner** - [KEA](www.kea.dk)/[Microsoft](https://msdn.microsoft.com/en-us/microsoftstudentpartners.aspx) - Copenhagen Denmark
@@ -53,6 +53,32 @@ March 2016 - January 2017
 May 2015 - December 2015
 :   **Web Administrator** - [Danmark Internationale Kollegium](www.dkik.dk) - Albertslund, Denmark
  
+
+Education
+---------
+
+August 2017 – expected in June 2019
+:   
+[Stockholm University](http://www.su.se/english/) – Stockholm, Sweden – MSc E-Open Government
+ 
+June 2015 - January 2017
+:   
+[KEA Copenhagen School of design and technology](http://www.kea.dk/en/) – Copenhagen, Denmark – PBA Software Development 
+
+January 2013 - June 2015
+:   
+[KEA Copenhagen School of design and technology](http://www.kea.dk/en/) – Copenhagen, Denmark – AP Computer Science 
+
+
+Certifications
+--------------
+* November 2018 - **Exam 487: Developing Microsoft Azure and Web Services**
+* October 2018 - **Exam 483: Programming in C#**
+* May 2018 - **Exam 761: Querying Data with Transact-SQL**
+* September 2017 – **Professional Scrum Developer 1 – Scrum.org**
+* June 2015 – **Danske Prøve 2 - Uddannelses- og Forskningsministeriet**
+* July 2011 - Certificate – Bourgas Airport – **Awareness - Security**
+
 
 Technical Experience
 --------------------
@@ -65,44 +91,12 @@ Technical Experience
     * Deep knowledge in UML
     * SCRUM/Agile experience
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
-
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
-
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
-----------------------------------------
-
-* Human Languages:
+Languages
+---------
 
      * English - full working proficiency
      * Russian - full working proficiency
      * Danish - advanced working proficiency
      * Bulgarian - native
 
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
