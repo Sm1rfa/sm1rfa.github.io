@@ -5,17 +5,20 @@
 
 Address | Information
 ------- | -----------
-Hvidovre |stoyan.bonchev@yahoo.com
-2650 |[LinkedIn](https://www.linkedin.com/in/sbonchev/)
-Denmark |phone on email request
+Varna |stoyan.bonchev@yahoo.com
+9000 |[LinkedIn](https://www.linkedin.com/in/sbonchev/)
+Bulgaria |phone on email request
 
 Career
 ---------
+July 2020 - current
+:   **BPM Developer/Developer III** - [KBC Group Bulgaria](www.kbc.com) - Varna, Bulgaria
+1. Joined a team for building business processes with Appian system and Oracle database.
 
-April 2018 - current
+April 2018 - June 2020
 :   **Software developer** - [KMD A/S](www.kmd.dk) - Ballerup, Denmark
 
-1. Currently working on a big and complex project for Danish Medicine Agency
+1. I was working on a big and complex project for Danish Medicine Agency
    - Responsible for the .NET projects - development, build, deploy
    - Part of inner team with a Java project - Gradle, WebSphere, Java 
 2. I was part of the team working on a project for Danish National Bank
