@@ -15,6 +15,7 @@ July 2020 - current
 :   **BPM Developer/Developer III** - [KBC Group Bulgaria](www.kbc.com) - Varna, Bulgaria
 1. Joined a team for building business processes with Appian system and Oracle database.
 
+
 April 2018 - June 2020
 :   **Software developer** - [KMD A/S](www.kmd.dk) - Ballerup, Denmark
 
