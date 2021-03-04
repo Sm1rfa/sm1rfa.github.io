@@ -11,13 +11,19 @@ Bulgaria |phone on email request
 
 Career
 ---------
-July 2020 - current
+
+December 2020 - Current
+:   **.NET Development Specialist** - [Global IT Center](www.devnyacement.bg) - Varna, Bulgaria
+1. I am part of internal team, developing web based services in microservice environment with agile methodologies.
+2. Working with .NET Core 3.1 and PostgreSQL.
+
+July 2020 - December 2020
 :   **BPM Developer/Developer III** - [KBC Group Bulgaria](www.kbc.com) - Varna, Bulgaria
 1. Joined a team for building business processes with Appian system and Oracle database.
 
 
 April 2018 - June 2020
-:   **Software developer** - [KMD A/S](www.kmd.dk) - Ballerup, Denmark
+:   **Software Developer** - [KMD A/S](www.kmd.dk) - Ballerup, Denmark
 
 1. I was working on a big and complex project for Danish Medicine Agency
    - Responsible for the .NET projects - development, build, deploy
@@ -30,7 +36,7 @@ April 2018 - June 2020
 
 
 January 2015 - March 2018
-:   **Software developer** - [Santander Consumer Bank A/S](www.santanderconsumer.dk) - Hvidovre, Denmark
+:   **Software Developer** - [Santander Consumer Bank A/S](www.santanderconsumer.dk) - Hvidovre, Denmark
 
      - I was part of internal team of the company, which is responsible for building wide range of solutions with .NET Framework.
      - Development, maintenance and support of new and already existing systems.
