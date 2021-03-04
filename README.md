@@ -13,9 +13,9 @@ Career
 ---------
 
 December 2020 - Current
-:   **.NET Development Specialist** - [Global IT Center](www.devnyacement.bg) - Varna, Bulgaria
+:   **.NET Development Specialist** - [Global IT Center](https://www.devnyacement.bg/bg) - Varna, Bulgaria
 1. I am part of internal team, developing web based services in microservice environment with agile methodologies.
-2. Working with .NET Core 3.1 and PostgreSQL.
+ - Working with .NET Core 3.1 and PostgreSQL.
 
 July 2020 - December 2020
 :   **BPM Developer/Developer III** - [KBC Group Bulgaria](www.kbc.com) - Varna, Bulgaria
