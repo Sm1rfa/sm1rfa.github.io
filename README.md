@@ -13,7 +13,7 @@ Career
 ---------
 
 December 2020 - Current
-:   **.NET Development Specialist** - [Global IT Center](https://www.digitalhubvarna.com) - Varna, Bulgaria
+:   **.NET Development Specialist** - [Heidelberg Materials Digital Hub Varna](https://www.digitalhubvarna.com) - Varna, Bulgaria
      - I am part of internal team, developing web based services in microservice environment with agile methodologies.
      - I am leading agile team of currently eight developers and a QA expert.
      - We are working on a large platform including website and mobile application.
