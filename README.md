@@ -13,9 +13,20 @@ Career
 ---------
 
 December 2020 - Current
-:   **.NET Development Specialist** - [Global IT Center](https://www.devnyacement.bg/bg) - Varna, Bulgaria
-1. I am part of internal team, developing web based services in microservice environment with agile methodologies.
- - Working with .NET Core 3.1 and PostgreSQL.
+:   **.NET Development Specialist** - [Global IT Center](https://www.digitalhubvarna.com) - Varna, Bulgaria
+     - I am part of internal team, developing web based services in microservice environment with agile methodologies.
+     - I am leading agile team of currently eight developers and a QA expert.
+     - We are working on a large platform including website and mobile application.
+     - My team is responsible for the online ordering of cement, ready-mix concrete and aggregate materials.
+     - We are working with microservice architecture including SAGA pattern.
+     - Main tech stack is consisting, but not only, from latest .NET Core, ReactJS, React-Native, PostgreSQL, RabbitMQ, GitLab, Jira, Confluence.
+     - We maintain many various aspects of the SDLC like maintenance and support of NuGet packages, vulnerability handling via Dependency Track, monitoring and alerting with Application Insights and Grafana, software quality with SonarQube.
+     - As a tech lead of the team I need to make sure that work goes smooth and in organized manner towards the company goals and standards.
+     - I also need to regularly synchronize with the other tech leads to make sure that there are no conflicting points during the development or maintenance of various features.
+     - I also help to the Requirements Engineer and Product Owner to balance the roadmap and the backlog between features required from business and the technical debt, which has to be paid from the team.
+     - I also need to support from time to time the Local Engagement Managers within the countries when they have technical questions about our solutions.
+     - I need to make sure that the team understands the strategic goals of the company and to translate this into tactile moves to adopt new ways of working like API First approach, exposing our APIs via proxies.
+     - I was also taking part of the interview and recruiting process in our department. 
 
 July 2020 - December 2020
 :   **BPM Developer/Developer III** - [KBC Group Bulgaria](www.kbc.com) - Varna, Bulgaria
